@@ -5,7 +5,7 @@ import Userinfo from './component/UserInfo';
 
 function App() {
   return (
-   <div className='bg-[#DEDEDC] w-full flex p-3 gap-5'>
+   <div className='bg-[#DEDEDC] w-full flex p-5 gap-5'>
     <div className='w-1/5 h-screen'>
       <Sidebar/>
     </div>
