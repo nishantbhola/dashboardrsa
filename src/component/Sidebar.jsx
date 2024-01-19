@@ -1,7 +1,7 @@
 export default function Sidebar() {
     return (
       <div className="h-screen bg-[#798991] rounded-xl">
-        <p className='text-8xl text-center pt-4 text-white'>RAS</p>
+        <p className='text-8xl text-center pt-5 text-white'>RAS</p>
         <div className='text-center mt-8 text-xl gap-5'>
           <ul className='gap-8 cursor-pointer'>
             <li className='py-3 text-white'>Dashboard</li>
